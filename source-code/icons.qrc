@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file>Authorization.ico</file>
+  <file>Tutor.ico</file>
+  <file>RegistrationOrEdit.ico</file>
+  <file>Studentform.ico</file>
+  <file>TestForm.ico</file>
+</qresource>
+</RCC>
+
