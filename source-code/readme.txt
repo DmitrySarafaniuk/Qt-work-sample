@@ -2,3 +2,4 @@ The   AuthorizationAndOutcome   class is responsible for verifying entered data,
 The   MaterialManipulation   class is responsible for adding / deleting / editing material, linking / disconnecting topics, and receiving lecture content.
 The   TestAndScores   class is responsible for entering test data, modifying it, transferring test data to forms, verifying access to a test, and submitting a test grade to a student.
 The   ___Form   classes are form/dialog classes. 
+If you want to briefly get acquainted with the program but not run it, you can observe it from Help.chm file.
